@@ -11,7 +11,7 @@ I built a specialized AI workforce where each agent handles a specific part of t
 
 * Theoretical Analysis: A "CircuitExplainer" agent determines how transistor widths will impact performance.
 
-* Automated Simulation: Agents autonomously write and run ngspice scripts to test the circuit in real-time.
+* Automated Simulation: Agents autonomously write and run ngspice scripts to test the circuit after each iteration of parameter modification.
 
 * Intelligent Optimization: A "Sizer" agent analyzes simulation data and proposes adjustments.
 
