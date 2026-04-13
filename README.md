@@ -1,4 +1,4 @@
-# Multi-Agent-System-with-Human-in-the-Loop-Feedback-for-CMOS-Sizing
+# Multi-Agent-System-with-Human-in-the-Loop-Feedback-for-CMOS-Optimization
 I developed a "Human-in-the-Loop" (HITL) multi-agent system using the Google Agent Development Kit (ADK) to automate the complex process of transistor sizing in circuit design.
 
 **The Problem**
