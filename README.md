@@ -1,0 +1,2 @@
+# Multi-Agent-System-with-Human-in-the-Loop-Feedback-for-CMOS-Sizing
+Multi-agent workflow using Google's Agent Development Kit and ngspice to automate high-precision CMOS circuit sizing. By integrating a multi-agent hierarchy with Human-in-the-Loop feedback, the system iteratively optimizes transistor dimensions to meet strict performance specs, successfully reducing propagation delay from 900ps to under 50ps.
